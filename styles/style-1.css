@@ -1,4 +1,8 @@
-#f-id {
-    background: yellow;
-    color: red;
+body {
+    background: rgb(242, 245, 248);
+    color: rgb(5, 11, 56);
+}
+::selection{
+    background: orange;
+    color: rgb(5, 71, 5);
 }
